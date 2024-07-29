@@ -1,0 +1,15 @@
+{
+  "name": "deuni",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Amrut Wali",
+  "license": "ISC",
+  "description": "A package that converts unicode text into its own unicode sequence",
+  "bin": {
+    "deuni": "./index.js"
+  }
+}
